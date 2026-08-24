@@ -1,0 +1,6 @@
+{
+  "name": "ETHER BOT",
+  "description": "Ether Telegram Bot with 2x2 modular dashboard, 1:1 recycled sequential raid reply engine, and live simulation console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
